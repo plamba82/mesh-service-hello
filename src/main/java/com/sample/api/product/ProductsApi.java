@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.sample.api.model.Product;
 
 /**
- * API for product
+ * testAPI for product
  * @author plamb1
  *
  */
